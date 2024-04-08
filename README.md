@@ -14,8 +14,8 @@ Repository for CPE 311-CPE22S3 - Computational Thinking with Python
 
 
 ADTL Info:
-Team3 Case Study1 Repository - https://github.com/zephyrowwa/T3-CS1-CPE22S3
-Modules 7-9 Repositories -
-https://github.com/zephyrowwa/M7-DATA-WRANGLING-W-PANDAS
-https://github.com/zephyrowwa/M8-AGGREGATING-PANDAS-DATAFRAMES
-https://github.com/zephyrowwa/M9-DATA-VSUALIZATION-USING-PANDAS-MATPLOTLIB-AND-SEABORN
+Team3 Case Study1 Repository: https://github.com/zephyrowwa/T3-CS1-CPE22S3
+Modules 7-9 Repositories:
+- https://github.com/zephyrowwa/M7-DATA-WRANGLING-W-PANDAS
+- https://github.com/zephyrowwa/M8-AGGREGATING-PANDAS-DATAFRAMES
+- https://github.com/zephyrowwa/M9-DATA-VSUALIZATION-USING-PANDAS-MATPLOTLIB-AND-SEABORN
